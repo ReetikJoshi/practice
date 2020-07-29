@@ -1,0 +1,1 @@
+This is the automation code for the flow of placing an order from the login of a user.
