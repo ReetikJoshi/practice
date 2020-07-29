@@ -1,0 +1,1 @@
+this is the automation codes for every modules of the project using Cypress
